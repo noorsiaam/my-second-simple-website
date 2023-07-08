@@ -5,3 +5,14 @@
     border-radius: 5px 5px 2px;
     box-shadow: 5px 5px 3px;
 }
+div{
+    background-color: blanchedalmond;
+    padding:10px;
+    border-right: 10px solid rgb(134, 37, 2);
+    box-shadow: 10px 10px 10px;
+    /* text-decoration: line-through; */
+    text-align: justify;
+}
+*{
+    margin-top: 2%;
+}
